@@ -10,8 +10,8 @@ In this project, we will:
 - Combine the transcriptions to generate the full transcript of the video.
 
 ## Highlights
-= Downloading Audio: Using the PyTube library, we download the audio of the YouTube video.
-= Automatic Speech Recognition: We utilize the Hugging Face library for ASR, employing the Wave2Vec model.
+- Downloading Audio: Using the PyTube library, we download the audio of the YouTube video.
+- Automatic Speech Recognition: We utilize the Hugging Face library for ASR, employing the Wave2Vec model.
 - Audio Chunking: To optimize memory usage, we segment the audio into smaller chunks.
 - Transcription and Combination: Each chunk is transcribed into text, and the transcriptions are combined to form the complete video transcript.
 
